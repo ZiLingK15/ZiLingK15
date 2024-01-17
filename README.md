@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm ZiLing</h1>
 <h3 align="center">A student studying at UTM.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/vgmXiZU82JhvVjbb6">
+<img align="right" alt="Coding" width="400" src="https://www.flaticon.com/free-sticker/coding_11384161">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
